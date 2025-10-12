@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🎓 Senior linguistics student at Ankara University, focusing on NLP and computational linguistics.<br>- 💻 Skilled in Python and R, involved in linguistic data extraction projects for eye discrimination experiments.<br>- 🧠 Currently enhancing my skills in artificial intelligence, focusing on natural language processing.<br>- 📊 Developing projects in NLP topics like sentiment analysis and discourse analysis.</p>
+<p align="left">- 🎓 B.A. & M.A. in Linguistics at Ankara University, focusing on NLP and computational linguistics.<br>- 💻 Skilled in Python and R, involved in linguistic data extraction projects for eye discrimination experiments.<br>- 🧠 Currently enhancing my skills in artificial intelligence, focusing on natural language processing.<br>- 📊 Developing projects in NLP topics like sentiment and discourse analysis.</p>
 
 ###
 
