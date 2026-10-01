@@ -35,8 +35,8 @@
 ###
 
 <p align="left">
-🎓 Linguistics graduate and M.A. student at Ankara University with focus on natural language processing and computational linguistics.<br>
--Working with Python for linguistic data processing, corpus analysis, preprocessing and experimental research.<br>
+🎓 Linguistics graduate and M.A. student at Ankara University with focus on computational linguistics and NLP.<br>
+-Working with Python for linguistic data processing, corpus analysis, preprocessing and experimental researches.<br>
 -Interested in how linguistic knowledge can contribute to NLP systems, language technologies and AI.<br>
 -Experienced in experimental linguistics and eye-tracking research, including data preprocessing and analysis.<br>
 -Currently developing hands-on NLP projects to strengthen my skills in corpus processing, annotation, dependency parsing and linguistic data analysis.<br>
